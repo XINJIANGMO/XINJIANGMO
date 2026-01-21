@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=XINJIANGMO)](https://github.com/ryo-ma/github-profile-trophy)
+A student from [oscar](http://oscar-lab.org/eng/index.htm) lab , focuing on designing fuzzing test for any repository.
