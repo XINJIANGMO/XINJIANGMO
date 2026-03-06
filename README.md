@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A student from [oscar](http://oscar-lab.org/eng/index.htm) lab , focuing on designing fuzzing test for any repository.
+A student from [oscar](http://oscar-lab.org/eng/index.htm) lab , a fuzzer , focuing on designing fuzzing test framework for any repository.
 
 Familiar with c/c++ testing tools and devote to fixing every issue in disvocerying process.
 
