@@ -6,11 +6,7 @@ Familiar with c/c++ testing tools and devote to fixing every issue in disvoceryi
 
 Finding bugs and fix them makes me happy! 😆
 
-<p align="center">
-    <p align="center">
-    <a href="https://github.com/XINJIANGMO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:dlutwym0224@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+Email : dlutwym0224@gmail.com
 
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
